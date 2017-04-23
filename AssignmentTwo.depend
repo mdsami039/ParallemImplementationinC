@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1432057599 source:c:\users\sami\documents\assignmenttwo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1432082122 source:c:\users\30133682\desktop\assignmenttwo\assignmenttwo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1432022864 source:c:\users\sami\desktop\assignmenttwo-2015-05-20\assignmenttwo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
+1432076420 source:c:\users\hammad\downloads\assignmenttwo-2015-05-20\assignmenttwo\untitled1.c
+
+1433011046 source:c:\users\hammad\downloads\assignmenttwo-2015-05-20\assignmenttwo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
